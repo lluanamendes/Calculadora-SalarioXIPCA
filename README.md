@@ -43,5 +43,6 @@
     Fornecer uma ferramenta simples e prática para visualizar a evolução do salário mínimo e da inflação no Brasil, 
     permitindo uma análise comparativa entre os dois indicadores econômicos no período de 2010 a 2020.
   </p>
-  ![aplicação](https://github.com/user-attachments/assets/45abb064-b29b-4995-b184-eb57fd644ac0)
+  
+  ![aplicação](https://github.com/lluanamendes/Calculadora-SalarioXIPCA/blob/main/aplica%C3%A7%C3%A3o.PNG?raw=true)
 
